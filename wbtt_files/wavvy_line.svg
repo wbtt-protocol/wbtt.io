@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="281px" height="13px" viewBox="0 0 281 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>wavvy_line</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="dblk_splash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="weth_splash_082517" transform="translate(-372.000000, -155.000000)" stroke="#000000" stroke-width="3">
+            <g id="Page-1" transform="translate(512.500000, 161.500000) scale(1, -1) translate(-512.500000, -161.500000) translate(372.000000, 157.000000)">
+                <path d="M0,0 C8.78099821,0 8.78099821,9 17.5619964,9 C26.342491,9 26.342491,0 35.1229857,0 C43.9039839,0 43.9039839,9 52.6844785,9 C61.4649731,9 61.4649731,0 70.2454677,0 C79.0264659,0 79.0264659,9 87.806457,9 C96.5879588,9 96.5879588,0 105.368453,0 C114.149955,0 114.149955,9 122.930953,9 C131.712455,9 131.712455,0 140.493957,0 C149.274452,0 149.274452,9 158.053939,9 C166.834937,9 166.834937,0 175.614928,0 C184.39643,0 184.39643,9 193.177428,9 C201.959434,9 201.959434,0 210.740935,0 C219.522941,0 219.522941,9 228.304946,9 C237.086448,9 237.086448,0 245.86795,0 C254.651466,0 254.651466,9 263.433975,9 C272.216987,9 272.216987,0 281,0" id="wavvy_line"></path>
+            </g>
+        </g>
+    </g>
+</svg>
